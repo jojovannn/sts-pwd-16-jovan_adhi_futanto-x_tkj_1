@@ -32,11 +32,10 @@ Seiring perkembangan industri energi global, Pertamina terus melakukan transform
 # Produk atau Layanan Utama
 
 # Produk
- - Bahan Bakar Minyak (BBM): Menyediakan produk bensin dan solar seperti Pertalite, Pertamax, Pertamax Turbo, Pertalite Dex, Pertamina Biosolar,  serta inovasi ramah lingkungan seperti Pertamax Green 95 dan Pertamina Renewable Diesel D100.
+ - Bahan Bakar Minyak (BBM): Menyediakan produk bensin dan solar seperti Pertalite, Pertamax, Pertamax Turbo, Pertalite Dex, Pertamina Biosolar, inovasi ramah lingkungan seperti Pertamax Green 95 dan Pertamina Renewable Diesel D100, dan bahan bakar Avtur untuk kebutuhan penerbangan.
 - Liquefied Petroleum Gas (LPG): Memproduksi dan mendistribusikan kebutuhan gas rumah tangga serta industri.
 - Pelumas (Lubricants): Menghasilkan berbagai jenis pelumas kendaraan dan mesin industri melalui PT Pertamina Lubricants.
 - Petrokimia: Menyediakan produk seperti benzene dan bitumen yang berguna untuk membangun kehidupan bangsa.
-- Avtur: Menyediakan bahan bakar untuk kebutuhan penerbangan.
 
 # Layanan
  - Distribusi dan Pemasaran Energi: Dikelola oleh Pertamina Patra Niaga selaku Sub Holding Commercial & Trading yang melayani rantai pasok energi ritel maupun industri.
